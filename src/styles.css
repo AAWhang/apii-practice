@@ -8,10 +8,14 @@ body {
   margin-top:2%;
   background-color: #FFDAD0;
 }
-
+img {
+  margin-left:auto;
+  margin-right:auto;
+  height:700px;
+  width:500px;
+}
 .card {
-  height:125px;
-  font-size:80px;
+  font-size:40px;
 }
 
 .linebottom {
